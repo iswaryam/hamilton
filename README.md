@@ -1,5 +1,6 @@
 # hamilton
-Hamilton lyrics analysis
+**Analysis of Hamilton Lyrics and Characters
+**
 
 **Dataset**
 ham_lyrics.csv (credit Kaggle for original file)
