@@ -1,17 +1,27 @@
 # hamilton
 **Analysis of Hamilton Lyrics and Characters**
 
+
+
 **Dataset**
 ham_lyrics.csv (credit Kaggle for original file)
+
+
 
 **EDA**
 Hamilton_Demo.pbix
 
+
+
 **Network Graph of Hamilton characters**
 networkgraph_hamilton.R
 
+
+
 **Extracting n-grams from Hamilton lyrics**
 ngrams_hamilton.R
+
+
 
 Have fun, and do not throw away your shot! 
 
